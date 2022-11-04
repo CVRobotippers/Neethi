@@ -1,2 +1,2 @@
-# Robotippers-Team---Neethi
+# Neethi
 Team Robotippers - Neethi Code
